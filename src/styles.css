@@ -342,7 +342,7 @@ header span {
 
 /* FOOTER SECTION */
 
-footer {
+.footer {
   margin-top: 40px;
   display: flex;
   padding: 60px 100px;
@@ -364,7 +364,7 @@ footer img {
   border-radius: 5px;
 }
 
-footer h1 {
+.footer h1 {
   margin-bottom: 3vh;
   font-size: 50px;
   color: #f7f7f7;
