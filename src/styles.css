@@ -19,6 +19,7 @@ header {
   justify-content: space-between;
 }
 
+
 header h5 {
   margin-left: 3vw;
   font-size: 25px;
@@ -61,7 +62,9 @@ header span {
   color: #333;
   text-align: center;
 }
-
+.contri{
+color: white;
+}
 .landing-text {
   padding-top: 20px;
   font-size: 25px;

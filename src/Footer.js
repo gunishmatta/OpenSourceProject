@@ -20,7 +20,7 @@ export default function Footer() {
         <a href="https://www.linkedin.com"> <img alt="footer-linkedin.png" src={require('./png/footer-linkedin.png')} />
         </a>
 
-
+<h5 className="contri">Frontend Contributed by Gunish Matta </h5>
 
 
 
