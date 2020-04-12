@@ -342,7 +342,7 @@ header span {
 
 /* FOOTER SECTION */
 
-.footer {
+.Footer1{
   margin-top: 40px;
   display: flex;
   padding: 60px 100px;
@@ -352,22 +352,26 @@ header span {
   align-items: center;
 }
 
-footer img {
+.Footer1 img {
   max-width: 150px;
 }
 
+.Footer1 h1
+{
+  margin-bottom: 3vh;
+  font-size: 50px;
+  color: #f7f7f7;
+}
+
 .reach-links img {
+max-height: 150px;
+  max-width: 150px;
   padding: 10px;
   margin: 10px;
   width: 100%;
   border: 1px #f7f7f7 solid;
   border-radius: 5px;
-}
 
-.footer h1 {
-  margin-bottom: 3vh;
-  font-size: 50px;
-  color: #f7f7f7;
 }
 
 /* Adding media querries */

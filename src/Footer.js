@@ -5,7 +5,7 @@ import "./styles.css";
 
 export default function Footer() {
   return (
-    <div className="Footer">
+    <div className="Footer1">
 <h1>REACH OUT TO US ON.</h1>
       <div className="reach-links">
 
